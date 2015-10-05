@@ -1,0 +1,14 @@
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KapitalTradingEngine.exe.config
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KapitalTradingEngine.exe
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KapitalTradingEngine.pdb
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KapitalTradingDomain.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KaptialTradingLogic.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\vAutomtion.Logger.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\CsvHelper.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KapitalTradingDomain.pdb
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\KaptialTradingLogic.pdb
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\CsvHelper.pdb
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\bin\Debug\CsvHelper.xml
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\obj\Debug\KapitalTradingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\obj\Debug\KapitalTradingEngine.exe
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingEngine\obj\Debug\KapitalTradingEngine.pdb

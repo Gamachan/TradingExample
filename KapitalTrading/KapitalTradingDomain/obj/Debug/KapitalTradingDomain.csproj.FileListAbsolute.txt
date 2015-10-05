@@ -1,0 +1,4 @@
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingDomain\bin\Debug\KapitalTradingDomain.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingDomain\bin\Debug\KapitalTradingDomain.pdb
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingDomain\obj\Debug\KapitalTradingDomain.dll
+C:\Users\Mr Mush\Downloads\KapitalTrading\KapitalTrading\KapitalTradingDomain\obj\Debug\KapitalTradingDomain.pdb
